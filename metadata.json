@@ -1,0 +1,5 @@
+{
+  "name": "AI Dashboard",
+  "description": "A simple React dashboard with a natural language query input.",
+  "requestFramePermissions": []
+}
